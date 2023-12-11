@@ -1,0 +1,20 @@
+h1{
+    display: inline;
+}
+h3{
+    display: inline;
+}
+.espacio {
+    margin-bottom: 20px;
+}
+#lado{
+    float: right;
+    width: 40%;
+    margin-top: 30px;
+}
+p{
+    display: flex;
+}
+.imgar{
+    margin: 20px;
+}
